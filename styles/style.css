@@ -1826,11 +1826,11 @@ h2 {
 
     .reviews-container {
         grid-template-columns: 1fr;
-        overflow: hidden;
     }
 
     .reviews-swiper {
         overflow: hidden;
+        padding: 20px 10px;
         width: 100%;
     }
 
